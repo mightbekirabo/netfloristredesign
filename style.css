@@ -1,0 +1,1826 @@
+/* Desktop - 8 */
+
+position: relative;
+width: 1440px;
+height: 4000px;
+
+background: #D23655;
+
+
+/* Group 44 */
+
+position: absolute;
+width: 2068px;
+height: 4018px;
+left: -313px;
+top: -18px;
+
+
+
+/* FLOWW 1 */
+
+position: absolute;
+width: 2068px;
+height: 2585px;
+left: -313px;
+top: 1038px;
+
+background: url(FLOWW.jpg);
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 1500px;
+height: 1050px;
+left: calc(50% - 1500px/2);
+top: -12px;
+
+background: url(Untitled design.png);
+
+
+/* Desktop - 9 */
+
+position: absolute;
+width: 1440px;
+height: 2585px;
+left: 1px;
+top: 1038px;
+
+background: rgba(158, 40, 64, 0.35);
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1283px;
+height: 800px;
+left: calc(50% - 1283px/2 - 0.5px);
+top: 159px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 614px;
+height: 800px;
+left: calc(50% - 614px/2 - 335px);
+top: 1035px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 6 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 614px;
+height: 377px;
+left: calc(50% - 614px/2 + 334px);
+top: 1035px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 8 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1283px;
+height: 377px;
+left: calc(50% - 1283px/2 - 0.5px);
+top: 1911px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 614px;
+height: 229px;
+left: calc(50% - 614px/2 - 335px);
+top: 2324px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 614px;
+height: 229px;
+left: calc(50% - 614px/2 + 334px);
+top: 2324px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 305px;
+height: 377px;
+left: calc(50% - 305px/2 + 179.5px);
+top: 1458px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 125px;
+height: 178px;
+left: calc(50% - 125px/2 + 421.5px);
+top: 1458px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 125px;
+height: 178px;
+left: calc(50% - 125px/2 + 578.5px);
+top: 1458px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 13 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 125px;
+height: 178px;
+left: calc(50% - 125px/2 + 578.5px);
+top: 1657px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* Rectangle 14 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 125px;
+height: 178px;
+left: calc(50% - 125px/2 + 423.5px);
+top: 1657px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 15px;
+
+
+/* ARROW */
+
+position: absolute;
+width: 116px;
+height: 116px;
+left: 1303px;
+top: 2466px;
+
+
+
+/* Ellipse 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 1311px;
+top: 2474px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(17.5px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Arrow down-circle */
+
+position: absolute;
+width: 116px;
+height: 116px;
+left: calc(50% - 116px/2 + 757px);
+top: 2582px;
+
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+transform: rotate(-180deg);
+
+
+/* Icon */
+
+position: absolute;
+left: 91.67%;
+right: -75%;
+top: 91.67%;
+bottom: -75%;
+
+transform: rotate(-180deg);
+
+
+/* Desktop - 8 */
+
+position: absolute;
+width: 1440px;
+height: 1056px;
+left: 0px;
+top: -18px;
+
+background: rgba(210, 54, 85, 0.18);
+
+
+/* Group 14 */
+
+position: absolute;
+width: 64px;
+height: 50.52px;
+left: 1126px;
+top: 108.48px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 79.03%;
+right: 18.15%;
+top: 10.27%;
+bottom: 86.4%;
+
+background: #FFFFFF;
+
+
+/* FAVOURITES */
+
+position: absolute;
+width: 64px;
+height: 11.23px;
+left: 1126px;
+top: 147.77px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 10px;
+line-height: 12px;
+
+color: #FFFFFF;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 54px;
+height: 58px;
+left: 1205px;
+top: 101px;
+
+
+
+/* cart */
+
+position: absolute;
+width: 45px;
+height: 42.1px;
+left: 1205px;
+top: 106.61px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 22.44%;
+right: 1.01%;
+top: 15.86%;
+bottom: 31.63%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.26%;
+right: 5.91%;
+top: 0.71%;
+bottom: 0.71%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.94%;
+right: 13.77%;
+top: 61.23%;
+bottom: 16.54%;
+
+background: #FFFFFF;
+
+
+/* LOGO FLOWER */
+
+position: absolute;
+width: 25px;
+height: 23.39px;
+left: 1234px;
+top: 101px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+left: 86.19%;
+right: 13.07%;
+top: 10.41%;
+bottom: 88.64%;
+
+background: #D23655;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+left: 86.19%;
+right: 13.07%;
+top: 9.56%;
+bottom: 89.49%;
+
+background: #BAE04F;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+left: 86.52%;
+right: 12.73%;
+top: 10.83%;
+bottom: 88.22%;
+
+background: #BAE04F;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+left: 85.86%;
+right: 13.4%;
+top: 10.83%;
+bottom: 88.22%;
+
+background: #BAE04F;
+
+
+/* Ellipse 5 */
+
+position: absolute;
+left: 85.69%;
+right: 13.56%;
+top: 10.09%;
+bottom: 88.96%;
+
+background: #BAE04F;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+left: 86.69%;
+right: 12.57%;
+top: 10.09%;
+bottom: 88.96%;
+
+background: #BAE04F;
+
+
+/* Ellipse 7 */
+
+position: absolute;
+left: 86.04%;
+right: 12.84%;
+top: 10.04%;
+bottom: 88.54%;
+
+background: #D23655;
+
+
+/* 2 */
+
+position: absolute;
+left: 86.25%;
+right: 13.06%;
+top: 9.94%;
+bottom: 88.64%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* CART */
+
+position: absolute;
+width: 29px;
+height: 11.23px;
+left: 1219px;
+top: 147.77px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 10px;
+line-height: 12px;
+
+color: #FFFFFF;
+
+
+
+/* LOGO */
+
+position: absolute;
+width: 481px;
+height: 120px;
+left: 480px;
+top: 456px;
+
+
+
+/* Net Florist */
+
+position: absolute;
+width: 481px;
+height: 120px;
+left: calc(50% - 481px/2 + 0.5px);
+top: 456px;
+
+font-family: 'Inder';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 120px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* LOGO FLOWER */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 845px;
+top: 470px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 12.86px;
+height: 12.86px;
+left: 853.57px;
+top: 481.43px;
+
+background: #D23655;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 12.86px;
+height: 12.86px;
+left: 853.57px;
+top: 470px;
+
+background: #BAE04F;
+
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 12.86px;
+height: 12.86px;
+left: 859.29px;
+top: 487.14px;
+
+background: #BAE04F;
+
+
+/* Ellipse 4 */
+
+position: absolute;
+width: 12.86px;
+height: 12.86px;
+left: 847.86px;
+top: 487.14px;
+
+background: #BAE04F;
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 12.86px;
+height: 12.86px;
+left: 845px;
+top: 477.14px;
+
+background: #BAE04F;
+
+
+/* Ellipse 6 */
+
+position: absolute;
+width: 12.86px;
+height: 12.86px;
+left: 862.14px;
+top: 477.14px;
+
+background: #BAE04F;
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 12.86px;
+height: 12.86px;
+left: 853.57px;
+top: 480px;
+
+background: #D23655;
+
+
+/* MENU */
+
+position: absolute;
+width: 1185px;
+height: 17px;
+left: 128px;
+top: 210px;
+
+
+
+/* OCCASIONS */
+
+position: absolute;
+width: 124px;
+height: 17px;
+left: 128px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* BIRTHDAY */
+
+position: absolute;
+width: 105px;
+height: 17px;
+left: 267px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* SYMPATHY */
+
+position: absolute;
+width: 117px;
+height: 17px;
+left: 387px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* CORPORATE */
+
+position: absolute;
+width: 130px;
+height: 17px;
+left: 519px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* FLOWERS */
+
+position: absolute;
+width: 101px;
+height: 17px;
+left: 664px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* PLANTS */
+
+position: absolute;
+width: 82px;
+height: 17px;
+left: 780px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* FOOD */
+
+position: absolute;
+width: 60px;
+height: 17px;
+left: 877px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* HOME */
+
+position: absolute;
+width: 64px;
+height: 17px;
+left: 952px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* CLOTHING */
+
+position: absolute;
+width: 109px;
+height: 17px;
+left: 1031px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* PERSONALISED */
+
+position: absolute;
+width: 158px;
+height: 17px;
+left: 1155px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* ARROW */
+
+position: absolute;
+width: 116px;
+height: 116px;
+left: calc(50% - 116px/2 + 116px);
+top: 1104px;
+
+transform: rotate(-180deg);
+
+
+/* Ellipse 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 770px;
+top: 1096px;
+
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(10px);
+/* Note: backdrop-filter has minimal browser support */
+transform: rotate(-180deg);
+
+
+/* Arrow down-circle */
+
+position: absolute;
+width: 116px;
+height: 116px;
+left: calc(50% - 116px/2);
+top: 988px;
+
+backdrop-filter: blur(35px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Icon */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* FOOTER */
+
+position: absolute;
+width: 1440px;
+height: 350px;
+left: 0px;
+top: 3650px;
+
+
+
+/* FOOTER LINKS */
+
+position: absolute;
+width: 789px;
+height: 290px;
+left: 78px;
+top: 3650px;
+
+
+
+/* NETFLORIST */
+
+position: absolute;
+width: 90px;
+height: 15px;
+left: 78px;
+top: 3650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Login /Register */
+
+position: absolute;
+width: 104px;
+height: 15px;
+left: 78px;
+top: 3685px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Gifts */
+
+position: absolute;
+width: 32px;
+height: 15px;
+left: 251px;
+top: 3685px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Birthday Gifts */
+
+position: absolute;
+width: 97px;
+height: 15px;
+left: 470px;
+top: 3685px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Track your order */
+
+position: absolute;
+width: 114px;
+height: 15px;
+left: 666px;
+top: 3685px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Contact Us */
+
+position: absolute;
+width: 77px;
+height: 15px;
+left: 666px;
+top: 3705px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Flower Delivery Areas */
+
+position: absolute;
+width: 145px;
+height: 15px;
+left: 666px;
+top: 3725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Flowers delivered to hospitals */
+
+position: absolute;
+width: 201px;
+height: 15px;
+left: 666px;
+top: 3745px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Delivery Information */
+
+position: absolute;
+width: 136px;
+height: 15px;
+left: 666px;
+top: 3765px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Terms & Conditions */
+
+position: absolute;
+width: 133px;
+height: 15px;
+left: 666px;
+top: 3785px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Payment Methods */
+
+position: absolute;
+width: 122px;
+height: 15px;
+left: 666px;
+top: 3805px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Site Security */
+
+position: absolute;
+width: 85px;
+height: 15px;
+left: 666px;
+top: 3825px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Sitemap */
+
+position: absolute;
+width: 54px;
+height: 15px;
+left: 666px;
+top: 3845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Privacy Policy */
+
+position: absolute;
+width: 95px;
+height: 15px;
+left: 666px;
+top: 3865px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* About Customer Credits */
+
+position: absolute;
+width: 160px;
+height: 15px;
+left: 666px;
+top: 3885px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* FAQ's */
+
+position: absolute;
+width: 41px;
+height: 15px;
+left: 666px;
+top: 3905px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Photo Book */
+
+position: absolute;
+width: 77px;
+height: 15px;
+left: 666px;
+top: 3925px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Anniversary Gifts */
+
+position: absolute;
+width: 116px;
+height: 15px;
+left: 470px;
+top: 3705px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Sympathy Gifts */
+
+position: absolute;
+width: 102px;
+height: 15px;
+left: 470px;
+top: 3725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Special Occasions */
+
+position: absolute;
+width: 124px;
+height: 15px;
+left: 470px;
+top: 3745px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* General Occasions */
+
+position: absolute;
+width: 124px;
+height: 15px;
+left: 470px;
+top: 3765px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Upcoming Occasions */
+
+position: absolute;
+width: 140px;
+height: 15px;
+left: 470px;
+top: 3785px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Bakery */
+
+position: absolute;
+width: 48px;
+height: 15px;
+left: 251px;
+top: 3705px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Perfume */
+
+position: absolute;
+width: 62px;
+height: 15px;
+left: 251px;
+top: 3725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Flower Tips and Advice */
+
+position: absolute;
+width: 155px;
+height: 15px;
+left: 251px;
+top: 3745px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Corporate Gifting */
+
+position: absolute;
+width: 119px;
+height: 15px;
+left: 251px;
+top: 3765px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* NetFlorist Johannesburg */
+
+position: absolute;
+width: 166px;
+height: 15px;
+left: 251px;
+top: 3785px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* NetFlorist Cape Town */
+
+position: absolute;
+width: 147px;
+height: 15px;
+left: 251px;
+top: 3805px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* NetFlorist Durban */
+
+position: absolute;
+width: 119px;
+height: 15px;
+left: 251px;
+top: 3825px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* NetFlorist Pretoria */
+
+position: absolute;
+width: 124px;
+height: 15px;
+left: 251px;
+top: 3845px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 65px;
+height: 15px;
+left: 78px;
+top: 3705px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Careers */
+
+position: absolute;
+width: 53px;
+height: 15px;
+left: 78px;
+top: 3725px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Affiliate Programme */
+
+position: absolute;
+width: 132px;
+height: 15px;
+left: 78px;
+top: 3745px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* FURTHER READING */
+
+position: absolute;
+width: 136px;
+height: 15px;
+left: 251px;
+top: 3650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* SHOP */
+
+position: absolute;
+width: 41px;
+height: 15px;
+left: 470px;
+top: 3650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* SERVICE */
+
+position: absolute;
+width: 64px;
+height: 15px;
+left: 666px;
+top: 3650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Group 39 */
+
+position: absolute;
+width: 383px;
+height: 235px;
+left: 972px;
+top: 3650px;
+
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 383px;
+height: 50px;
+left: 972px;
+top: 3680px;
+
+background: rgba(236, 216, 220, 0.1);
+backdrop-filter: blur(25px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+
+
+/* SIGN UP TO HEAR FROM US */
+
+position: absolute;
+width: 189px;
+height: 15px;
+left: 1069px;
+top: 3650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* FOLLOW US: */
+
+position: absolute;
+width: 90px;
+height: 15px;
+left: 972px;
+top: 3799px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 115px;
+height: 25px;
+left: 1106px;
+top: 3751px;
+
+background: #631928;
+border-radius: 25px;
+
+
+/* SUBSCRIBE */
+
+position: absolute;
+width: 81px;
+height: 17px;
+left: 1123px;
+top: 3755px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 68.12%;
+right: 28.4%;
+top: 95.88%;
+bottom: 2.88%;
+
+border: 1px solid #631928;
+
+
+/* Group */
+
+position: absolute;
+left: 73.47%;
+right: 21.83%;
+top: 95.88%;
+bottom: 2.88%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 75.31%;
+right: 23.26%;
+top: 96.17%;
+bottom: 3.17%;
+
+border: 1px solid #631928;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.47%;
+right: 21.83%;
+top: 95.88%;
+bottom: 2.88%;
+
+border: 1px solid #631928;
+
+
+/* Vector */
+
+position: absolute;
+left: 80%;
+right: 17.13%;
+top: 95.88%;
+bottom: 2.88%;
+
+border: 1px solid #631928;
+
+
+/* Group */
+
+position: absolute;
+left: 84.72%;
+right: 11.81%;
+top: 95.88%;
+bottom: 2.88%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 84.72%;
+right: 11.81%;
+top: 95.88%;
+bottom: 2.88%;
+
+border: 1px solid #631928;
+
+
+/* Vector */
+
+position: absolute;
+left: 85.55%;
+right: 12.63%;
+top: 96.17%;
+bottom: 3.17%;
+
+border: 1px solid #631928;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.37%;
+right: 12.47%;
+top: 96.05%;
+bottom: 3.89%;
+
+border: 1px solid #631928;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.07%;
+right: 6.46%;
+top: 95.88%;
+bottom: 2.88%;
+
+background: #631928;
+
+
+/* COPYRIGHT */
+
+position: absolute;
+width: 1440px;
+height: 40px;
+left: 0px;
+top: 3960px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 1440px;
+height: 40px;
+left: 0px;
+top: 3960px;
+
+background: #96273D;
+
+
+/* Copyright © NetFlorist. All rights reserved. */
+
+position: absolute;
+width: 294px;
+height: 16px;
+left: calc(50% - 294px/2);
+top: 3972px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #FFFFFF;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 909px;
+height: 75px;
+left: 130px;
+top: 73px;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 909px;
+height: 75px;
+left: calc(50% - 909px/2 - 135.5px);
+top: 73px;
+
+background: rgba(242, 228, 231, 0.45);
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+
+
+/* Vector */
+
+position: absolute;
+width: 32px;
+height: 33.89px;
+left: calc(50% - 32px/2 - 541px);
+top: 95px;
+
+background: linear-gradient(297.61deg, #D23655 -275.43%, rgba(210, 54, 85, 0.4) -66.68%, #E5C9CF 142.07%);
+
+
+/* What Are You Looking For? P.S Click ‘PLANTS’ then ‘Orchids’ */
+
+position: absolute;
+width: 683px;
+height: 29px;
+left: calc(50% - 683px/2 - 160.5px);
+top: 96px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+background: linear-gradient(90deg, #F2E4E7 40.2%, #E5C9CF 80.95%, rgba(210, 54, 85, 0.4) 129.41%, #D23655 159.15%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
